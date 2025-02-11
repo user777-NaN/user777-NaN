@@ -3,7 +3,6 @@
      In recent months, I have also deepened my knowledge of the Angular framework, 
      which allows you to create dynamic and interactive web applications.
 - 🌱 Currently delving into areas such as web application development using Django and data analysis using Pandas.
-- 💞️ I’m looking to collaborate on ...
 - 📫 my telegram @useeer1112
 
 
