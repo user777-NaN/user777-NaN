@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ruslan Barotov
-- 👀 At the moment I'm studying JavaScript, Java and Python.
--   Each of these languages opens up new horizons and opportunities for development.
+- 👨‍💻 I am interested in website development and am actively learning programming languages ​​such as JavaScript, Python and Java. 
+     In recent months, I have also deepened my knowledge of the Angular framework, 
+     which allows you to create dynamic and interactive web applications.
 - 🌱 Currently delving into areas such as web application development using Django and data analysis using Pandas.
 - 💞️ I’m looking to collaborate on ...
 - 📫 my telegram @useeer1112
